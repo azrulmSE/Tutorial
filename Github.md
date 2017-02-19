@@ -2,7 +2,13 @@
 
 - Download from any github source
 
-``` git clone http://<url>.<sources>.git```
+``` 
+git clone http://<url>.<sources>.git
+```
+Example:
+```
+git clone https://github.com/azrulmSE/Tutorial.git
+```
 
 - Disable upload for file
 
