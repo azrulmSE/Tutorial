@@ -10,7 +10,8 @@
 
 - Disable upload for folder
 
-``` git reset -- node_modules/* ```
+``` git reset -- node_modules/*
+```
 - Upload git
 
 ``` git add .
