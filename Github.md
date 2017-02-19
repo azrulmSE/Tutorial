@@ -11,3 +11,9 @@
 - Disable upload for folder
 
 ``` git reset -- node_modules/* ```
+- Upload git
+
+``` git add .
+    git commit -m 'upload to git'
+    git push origin
+```
