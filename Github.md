@@ -20,4 +20,12 @@ git add .
 git commit -m 'upload to git' 
 git push origin
 ```
+- Remove origin
 
+```
+git remote remove origin
+```
+- Check origin
+```
+git remote
+```
