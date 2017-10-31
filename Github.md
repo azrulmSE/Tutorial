@@ -37,5 +37,7 @@ git remote
 ```
 Additional information:
 
-[managing remotes](https://help.github.com/categories/managing-remotes/)
+[Managing Remotes](https://help.github.com/categories/managing-remotes/)
+
+[Create new github repo from command line](https://coderwall.com/p/mnwcog/create-new-github-repo-from-command-line)
 
