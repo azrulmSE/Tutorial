@@ -35,3 +35,8 @@ git remote remove origin
 ```
 git remote
 ```
+Additional information:
+```
+https://help.github.com/categories/managing-remotes/
+
+```
