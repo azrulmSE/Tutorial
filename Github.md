@@ -37,5 +37,5 @@ git remote
 ```
 Additional information:
 
-[https://help.github.com/categories/managing-remotes/]: https://help.github.com/categories/managing-remotes/
+[managing remotes] (https://help.github.com/categories/managing-remotes/)
 
