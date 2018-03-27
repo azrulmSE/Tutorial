@@ -27,7 +27,6 @@ git commit -m 'upload to git'
 git push origin
 ```
 - Remove origin
-
 ```
 git remote remove origin
 ```
@@ -35,6 +34,19 @@ git remote remove origin
 ```
 git remote
 ```
+- Configuring a remote for a fork
+```
+git remote -v
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+git remote -v
+```
+- Syncing a fork
+```
+git fetch upstream
+git checkout master
+git merge upstream/master
+```
+
 Additional information:
 
 [Managing Remotes](https://help.github.com/categories/managing-remotes/)
